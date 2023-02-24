@@ -1,0 +1,16 @@
+{
+  
+  "name": "Extension for Assignment",
+  "version": "0.0.1",
+  "manifest_version": 3,
+
+  "action": {
+    "default_title": "Extension for Assignment",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
